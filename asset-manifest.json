@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/trivia/static/css/main.53fc1869.chunk.css",
-    "main.js": "/trivia/static/js/main.b05cf015.chunk.js",
-    "main.js.map": "/trivia/static/js/main.b05cf015.chunk.js.map",
-    "runtime-main.js": "/trivia/static/js/runtime-main.36b073f9.js",
-    "runtime-main.js.map": "/trivia/static/js/runtime-main.36b073f9.js.map",
-    "static/js/2.e9267c3e.chunk.js": "/trivia/static/js/2.e9267c3e.chunk.js",
-    "static/js/2.e9267c3e.chunk.js.map": "/trivia/static/js/2.e9267c3e.chunk.js.map",
-    "index.html": "/trivia/index.html",
-    "precache-manifest.59b4417b881a291d2f025c3bc3396642.js": "/trivia/precache-manifest.59b4417b881a291d2f025c3bc3396642.js",
-    "service-worker.js": "/trivia/service-worker.js",
-    "static/css/main.53fc1869.chunk.css.map": "/trivia/static/css/main.53fc1869.chunk.css.map",
-    "static/js/2.e9267c3e.chunk.js.LICENSE.txt": "/trivia/static/js/2.e9267c3e.chunk.js.LICENSE.txt",
-    "static/media/trivia.css": "/trivia/static/media/hehe.2bae00d7.jpg",
-    "static/media/ranking.css": "/trivia/static/media/hehefeed.8e408a09.jpg"
+    "main.css": "/Trivia/static/css/main.beafa3e4.chunk.css",
+    "main.js": "/Trivia/static/js/main.b05cf015.chunk.js",
+    "main.js.map": "/Trivia/static/js/main.b05cf015.chunk.js.map",
+    "runtime-main.js": "/Trivia/static/js/runtime-main.d1b2b455.js",
+    "runtime-main.js.map": "/Trivia/static/js/runtime-main.d1b2b455.js.map",
+    "static/js/2.e9267c3e.chunk.js": "/Trivia/static/js/2.e9267c3e.chunk.js",
+    "static/js/2.e9267c3e.chunk.js.map": "/Trivia/static/js/2.e9267c3e.chunk.js.map",
+    "index.html": "/Trivia/index.html",
+    "precache-manifest.18c43633d625d62a4b2bc064d25e97ea.js": "/Trivia/precache-manifest.18c43633d625d62a4b2bc064d25e97ea.js",
+    "service-worker.js": "/Trivia/service-worker.js",
+    "static/css/main.beafa3e4.chunk.css.map": "/Trivia/static/css/main.beafa3e4.chunk.css.map",
+    "static/js/2.e9267c3e.chunk.js.LICENSE.txt": "/Trivia/static/js/2.e9267c3e.chunk.js.LICENSE.txt",
+    "static/media/trivia.css": "/Trivia/static/media/hehe.2bae00d7.jpg",
+    "static/media/ranking.css": "/Trivia/static/media/hehefeed.8e408a09.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.36b073f9.js",
+    "static/js/runtime-main.d1b2b455.js",
     "static/js/2.e9267c3e.chunk.js",
-    "static/css/main.53fc1869.chunk.css",
+    "static/css/main.beafa3e4.chunk.css",
     "static/js/main.b05cf015.chunk.js"
   ]
 }
