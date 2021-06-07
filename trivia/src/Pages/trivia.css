@@ -1,0 +1,12 @@
+.trivia {
+  background-image: url('./hehe.jpg');
+  background-size: cover;
+}
+
+.triviaCards {
+  display: grid;
+  grid-template-columns: 10% 60% 30%;
+  grid-template-rows: 20% 60% 20%;
+  height: 85vh;
+  width: 100%;
+}

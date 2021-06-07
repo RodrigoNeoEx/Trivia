@@ -1,0 +1,115 @@
+.triviaCard {
+  align-items: self-end;
+  backdrop-filter: blur(4px) hue-rotate(45deg);
+  background-color: #80808033;
+  border-bottom-left-radius: 35%;
+  border-top-right-radius: 35%;
+  box-shadow: black 2px 2px 10px 5px , black -2px -2px 10px 5px;
+  display: grid;
+  grid-column: 2;
+  grid-row: 2;
+  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-rows: 1fr 1fr 3fr 1fr;
+}
+
+.category {
+  color: #ffdead9e;
+  font-size: 3vh;
+  font-weight: 700;
+  grid-column: 2;
+  grid-row: 1;
+  text-shadow: black 2px 1px 5px;
+}
+
+.text {
+  color: #ffdead9e;
+  font-size: 2vh;
+  font-weight: 700;
+  grid-column: 2;
+  grid-row: 2;
+  text-shadow: black 2px 1px 5px;
+}
+
+.answers {
+  display: grid;
+  font-size: 1vh;
+  grid-column: 2;
+  grid-column-end: none;
+  grid-row: 3;
+  height: 15vh;
+  margin: 3vh;
+}
+
+
+.next {
+  align-self: center;
+  animation: start 0.5s linear infinite;
+  background: none;
+  border: none;
+  box-shadow: none;
+  color: rgba(60, 255, 0, 0.575);
+  filter: drop-shadow(8px 3px 1px black);
+  font-size: 10vh;
+  grid-column: 3;
+  grid-row: 2;
+  height: 10vh;
+
+    left: 15px;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    width: 12vh;
+    z-index: 10;
+}
+
+button {
+  background-color: rgb(0 0 255 / 17%);
+  border: none;
+  box-shadow: inset #0000008f 1px 1px 0 1px , inset #0000008f -1px -1px 0 1px;
+  cursor: pointer;
+}
+
+@keyframes start {
+
+  from {
+    transform: translateX(-3px);
+  }
+
+  to {
+    transform: translateX(3px);
+  }
+}
+
+.timer {
+  align-self: end;
+  color: #004dff;
+  display: flex;
+  filter: drop-shadow(5px 4px 6px black);
+  grid-column: 3;
+  grid-row: 1;
+}
+
+.counter {
+  border-radius: 50%;
+  color: rgba(201, 24, 24, 0.932);
+  filter: drop-shadow(5px 4px 6px black);
+  font-size: 10vh;
+  height: 12vh;
+  left: 15px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 12vh;
+  z-index: 10;
+}
+
+@keyframes grow {
+
+  0% {
+    font-size: 10vh;
+  }
+
+  100% {
+    font-size: 11vh;
+  }
+}
