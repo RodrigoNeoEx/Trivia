@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trivia/static/css/main.53fc1869.chunk.css",
+    "main.js": "/trivia/static/js/main.b05cf015.chunk.js",
+    "main.js.map": "/trivia/static/js/main.b05cf015.chunk.js.map",
+    "runtime-main.js": "/trivia/static/js/runtime-main.36b073f9.js",
+    "runtime-main.js.map": "/trivia/static/js/runtime-main.36b073f9.js.map",
+    "static/js/2.e9267c3e.chunk.js": "/trivia/static/js/2.e9267c3e.chunk.js",
+    "static/js/2.e9267c3e.chunk.js.map": "/trivia/static/js/2.e9267c3e.chunk.js.map",
+    "index.html": "/trivia/index.html",
+    "precache-manifest.59b4417b881a291d2f025c3bc3396642.js": "/trivia/precache-manifest.59b4417b881a291d2f025c3bc3396642.js",
+    "service-worker.js": "/trivia/service-worker.js",
+    "static/css/main.53fc1869.chunk.css.map": "/trivia/static/css/main.53fc1869.chunk.css.map",
+    "static/js/2.e9267c3e.chunk.js.LICENSE.txt": "/trivia/static/js/2.e9267c3e.chunk.js.LICENSE.txt",
+    "static/media/trivia.css": "/trivia/static/media/hehe.2bae00d7.jpg",
+    "static/media/ranking.css": "/trivia/static/media/hehefeed.8e408a09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b073f9.js",
+    "static/js/2.e9267c3e.chunk.js",
+    "static/css/main.53fc1869.chunk.css",
+    "static/js/main.b05cf015.chunk.js"
+  ]
+}
